@@ -68,7 +68,11 @@ npm install
 Create a .env file 
 
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASSWORD= your_Password
+
 DB_NAME=Database_name
+
 JWT_SECRET_KEY=yourStrongSecretKey
