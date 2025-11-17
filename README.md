@@ -53,27 +53,20 @@ bcrypt
 dotenv
 
 
-📁 Project Structure
-/server
-│── /models
-│   ├── Users.js
-│   ├── Posts.js
-│   └── index.js
-│── /routes
-│   ├── Users.js
-│   └── Posts.js
-│── /middleware
-│   └── AuthMiddleware.js
-│── .env
-│── package.json
-│── server.js
+
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
+
 2️⃣ Install Dependencies
+
 npm install
+
 3️⃣ Configure Environment Variables
+
 Create a .env file 
+
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD= your_Password
